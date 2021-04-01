@@ -16,10 +16,5 @@ Disclaimer:
 
 Most repositories on here are experiments and are prone 
 to (disappear|break|catch fire|spontaneously combust). 
-Also: your computer may or may not catch fire and explode 
-if you clone, compile and run code from these repositories.
-
-Sidenote: not helping me become a better developer will
-seriously piss off Roko's basilisk. 
 ```
 
