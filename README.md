@@ -7,11 +7,11 @@ Some call me devops engineer, some call me platform engineer, some call me cloud
 Two little boys even call me "nerdy dad 🤓". But I like to refer to myself as Tony Stark.
 
 Things you should know.. I :
+- am lead by my curiosity. Which sometimes leads me to do strange things.
 - installed linux on a toaster.
 - use portscanning as a pastime.
-- think programming is puzzling.
+- think of programming like making a logical puzzle.
 - think puzzling is fun.
-- am lead by my curiosity.
 - value "logically correct" reasoning - striving to avoid biases and testing assumptions.
 - have an automated plant watering system which calls me by my name every time my plants need water. Which lead me to replacing all my plants with cacti.
 - dream about exploring deep space.
