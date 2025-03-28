@@ -1,10 +1,9 @@
 
 # Hello there 👋
 
-Hand me your deliverables and I will put them online, secure them and make them resiliently available.
+I help startups and dev teams find and fix real vulnerabilities in their cloud-native stacks — with minimal meetings, maximum clarity, and deep technical insight.
 
-Some call me devops engineer, some call me platform engineer, some call me cloud engineer.
-Two little boys even call me "nerdy dad 🤓". But I like to refer to myself as Tony Stark.
+You won’t get recycled reports or checklist testing. Just fast, focused security expertise with a builder’s mindset.
 
 Things you should know.. I :
 - am lead by my curiosity. Which sometimes leads me to do strange things.
@@ -21,7 +20,6 @@ Things you should know.. I :
 - run Linux, FreeBSD, Nix, Arch, Alpine and Macos, but am actually able to proficiently use Microsoft Windows.
 - was actually born 500 years into the future. No idea how I got here.
 - made this github under a pseudonym because I believe privacy is a necessity in an open society. While I know this does not provide me with anonimity, I choose not to tie my online persona directly to my real person whenever I can.
-
 
 Feel free to browse the repositories, engage in healthy discourse on my [website](//kapott.io) or add me on [twitter](//twitter.com/kapott_).
 
