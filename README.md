@@ -32,8 +32,7 @@ kapott_
 ```
 Disclaimer: 
 
-These repositories do not "chase the nines".
-Repo's will change, I will delete stuff now and then and sometimes browsing them can even be precarious.
-but most of all, samy is my hero.
+These repositories are bits which I smashed together according to pareto's principle.
+Repo's will change, I will delete stuff now and then and sometimes even just browsing them can even be precarious for your computer or your mental health - but most of all, samy is my hero.
 ```
 
